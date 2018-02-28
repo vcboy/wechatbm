@@ -1,0 +1,2 @@
+# wechatbm
+about wechat baoming 
